@@ -1,0 +1,21 @@
+/* Write your CSS here */
+.App-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 12px;
+  padding-top: 16px;
+  margin-left: 5px;
+  margin-right: 5px;
+  margin-bottom: 10px;
+  width: 50%;
+  max-width: 128px;
+  flex-wrap: wrap;
+}
+
+.app-image {
+  height: 90px;
+  width: 90px;
+  background-color: #ffffff;
+}

@@ -1,0 +1,25 @@
+/* Write your CSS here */
+.tabButton {
+  margin-left: 10px;
+  outline: none;
+  border: none;
+  background-color: transparent;
+  font-family: 'Roboto';
+  font-weight: 500;
+  font-size: 16px;
+  color: #7b8794;
+  cursor: pointer;
+}
+
+.Tab-container {
+  list-style-type: none;
+}
+
+.tabboarder {
+  color: #2563eb;
+  border-bottom: 2px solid #2563eb;
+  padding-bottom: 8px;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+}
